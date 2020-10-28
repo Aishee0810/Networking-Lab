@@ -1,3 +1,10 @@
+//The objective of this assignment is to develop TFTP (Trivial File Transfer Protocol) client application. The developed 
+//functionalities of TFTP client have to be tested with the standard TFTP server available. You should demonstrate file 
+//transfer of different file sizes, like a text file, doc file, mp3 files etc. Also, try implementing various error handling 
+//scenarios like packet drop, retransmission, timeout etc. In general, packet drop won't occur in our lab environment. 
+//Therefore, it will be great if you could come up with some strategy to demonstrate some failure scenario and handling of those.
+
+
 #include <stdio.h> 
 #include <string.h> 
 #include <stdlib.h> 
